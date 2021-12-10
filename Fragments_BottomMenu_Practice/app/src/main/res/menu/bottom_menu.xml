@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/Main_menu"
+        android:id="@+id/fragment_1"
+        android:enabled="true"
+        android:icon="@drawable/main_menu"/>
+
+    <item
+        android:title="@string/Contacts"
+        android:id="@+id/fragment_2"
+        android:icon="@drawable/contacts_icon"
+        android:enabled="true"/>
+
+</menu>

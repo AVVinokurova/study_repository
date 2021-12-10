@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragments_BottomMenu_Practice</string>
+    <string name="Contacts">Контакты</string>
+    <string name="Main_menu">Главное меню</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello SECOND fragment</string>
+    <string name="developers">Developers</string>
+    <string name="bingley_ann">Bingley Ann</string>
+    <string name="vinokurova_anastasia">Vinokurova Anastasia</string>
+</resources>
