@@ -9,3 +9,7 @@
 ### ExamApplication
 
 Приложение для итоговой аттестации
+
+### Fragments_BottomMenu_Practice
+
+Домашнее задание № 4 - реализована смена фрагментов с помощью bottomNavigationView
